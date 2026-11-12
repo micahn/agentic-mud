@@ -1,6 +1,7 @@
 # Club MUD — Specification
 
 **Status:** draft for build.
+**Tickets:** [M1 milestone](https://github.com/micahn/agentic-mud/milestone/1) — 28 tickets, each with a Red test step and a Green implementation step, wired with native blockers. M2–M5 are epics (#29–#32).
 **Scope of this document:** M1 is fully specified and normative. M2–M5 define
 contracts and acceptance criteria only; they are specified in detail when
 reached.
